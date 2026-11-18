@@ -1,0 +1,8 @@
+{"status": "True",
+  "message": "Authorization URL created",
+  "data": {
+    "authorization_url": "https://checkout.paystack.com/isdmviqaj2xfayh",
+    "access_code": "isdmviqaj2xfayh",
+    "reference": "rxgpws4992"
+  }
+}
